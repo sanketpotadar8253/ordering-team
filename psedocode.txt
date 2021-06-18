@@ -1,0 +1,13 @@
+Take input from user as:Test
+Check Test is greater than 0(Test>0)
+if above condition true
+    create/initialize 3 person array with size 3
+ perform validation i to 3;
+ insert scores to each person till above condition satisfies
+ declare and initialize boolean value to flag1,flag2 and correct 1,correct2
+ initislize i to 3
+ perform if operation and check largest scores from each person
+ decrement test by 1 till 0
+ perform compare operation  till test>0
+ 
+ 
